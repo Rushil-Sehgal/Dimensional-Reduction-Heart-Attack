@@ -1,5 +1,5 @@
 # Dimensional-Reduction-Heart-Attack
-This study aims to analyze the Heart Attack dataset and will apply Dimensionality Reduction techniques eventually building a classification model to do the predictions.
+This study aims to analyze the Heart Attack dataset and will apply Dimensionality Reduction techniques using **R** eventually building a classification model to do the predictions.
 
 # Study Objective:
 * Analysis and exploring different methods for Dimensionality Reduction and choosing the optimal
